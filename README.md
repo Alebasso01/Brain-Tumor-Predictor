@@ -16,6 +16,16 @@ This project consists of three main parts:
 
 3. **Testing Phase**:
     - **Model Testing**: The trained model is tested to evaluate its performance.
+  
+## Prerequisites
+
+To automatically download the zip file of the dataset, you will need:
+
+
+  - A Kaggle account, sign up on [Kaggle](https://www.kaggle.com/).
+  - Go to your Kaggle account and create your API token.
+  - Download the kaggle.json file which contains your authentication token.
+  - Upload the kaggle.json file to the Colab runtime before running the notebook. This is necessary to download the dataset from Kaggle.
 
 ## Requirements
 
